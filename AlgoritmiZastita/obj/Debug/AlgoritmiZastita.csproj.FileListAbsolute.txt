@@ -1,0 +1,22 @@
+C:\Users\Luka\source\repos\AlgoritmiZastita\AlgoritmiZastita\bin\Debug\AlgoritmiZastita.exe.config
+C:\Users\Luka\source\repos\AlgoritmiZastita\AlgoritmiZastita\bin\Debug\AlgoritmiZastita.exe
+C:\Users\Luka\source\repos\AlgoritmiZastita\AlgoritmiZastita\bin\Debug\AlgoritmiZastita.pdb
+C:\Users\Luka\source\repos\AlgoritmiZastita\AlgoritmiZastita\obj\Debug\AlgoritmiZastita.csprojAssemblyReference.cache
+C:\Users\Luka\source\repos\AlgoritmiZastita\AlgoritmiZastita\obj\Debug\AlgoritmiZastita.Form1.resources
+C:\Users\Luka\source\repos\AlgoritmiZastita\AlgoritmiZastita\obj\Debug\AlgoritmiZastita.Properties.Resources.resources
+C:\Users\Luka\source\repos\AlgoritmiZastita\AlgoritmiZastita\obj\Debug\AlgoritmiZastita.csproj.GenerateResource.cache
+C:\Users\Luka\source\repos\AlgoritmiZastita\AlgoritmiZastita\obj\Debug\AlgoritmiZastita.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\AlgoritmiZastita\AlgoritmiZastita\obj\Debug\AlgoritmiZastita.exe
+C:\Users\Luka\source\repos\AlgoritmiZastita\AlgoritmiZastita\obj\Debug\AlgoritmiZastita.pdb
+C:\Users\Luka\source\repos\AlgoritmiZastita\AlgoritmiZastita\obj\Debug\AlgoritmiZastita.Form2.resources
+C:\Users\DELL\source\repos\AlgoritmiZastita C#\AlgoritmiZastita\bin\Debug\AlgoritmiZastita.exe.config
+C:\Users\DELL\source\repos\AlgoritmiZastita C#\AlgoritmiZastita\bin\Debug\AlgoritmiZastita.exe
+C:\Users\DELL\source\repos\AlgoritmiZastita C#\AlgoritmiZastita\bin\Debug\AlgoritmiZastita.pdb
+C:\Users\DELL\source\repos\AlgoritmiZastita C#\AlgoritmiZastita\obj\Debug\AlgoritmiZastita.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\AlgoritmiZastita C#\AlgoritmiZastita\obj\Debug\AlgoritmiZastita.Form1.resources
+C:\Users\DELL\source\repos\AlgoritmiZastita C#\AlgoritmiZastita\obj\Debug\AlgoritmiZastita.Form2.resources
+C:\Users\DELL\source\repos\AlgoritmiZastita C#\AlgoritmiZastita\obj\Debug\AlgoritmiZastita.Properties.Resources.resources
+C:\Users\DELL\source\repos\AlgoritmiZastita C#\AlgoritmiZastita\obj\Debug\AlgoritmiZastita.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\AlgoritmiZastita C#\AlgoritmiZastita\obj\Debug\AlgoritmiZastita.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\AlgoritmiZastita C#\AlgoritmiZastita\obj\Debug\AlgoritmiZastita.exe
+C:\Users\DELL\source\repos\AlgoritmiZastita C#\AlgoritmiZastita\obj\Debug\AlgoritmiZastita.pdb
