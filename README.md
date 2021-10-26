@@ -1,5 +1,5 @@
 # Cryptographic-symmetric-key-algorithms-C-Sharp
-Encryption and decryption using symmetric-key substitution and transposition algorithms implemented as C# Windows Form application
+Encryption and decryption using symmetric-key substitution and transposition algorithms implemented as C# Windows Form application.
 
 Code is in "AlgoritmiZastita" folder (files: Form1.cs, Form2.cs).
 The view of the GUI is given as images and it is in "Examples" folder.
